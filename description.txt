@@ -1,0 +1,12 @@
+Complete structure of a java class:
+
+<class modifiers> class className extends <super_class> implement <super_interface> {
+Step_1: Field Declarations
+Step_2: static Initializers
+Step_3: Instance Initializers
+Step_4: Constructors
+Step_5: Method Declarations
+
+
+
+}
